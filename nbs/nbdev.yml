@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fft"
+  site-url: "https://LucidCatnap.github.io/fft"
+  description: "descriptive description"
+  repo-branch: main
+  repo-url: "https://github.com/LucidCatnap/fft"
